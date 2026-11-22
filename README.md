@@ -13,7 +13,6 @@ notes/
   weekly.md        weekly updates (add when needed)
 practice/
   oop/             OOP exercises
-  python/          toolkit practice
 implementations/   data structures and algorithms built from scratch
 ```
 
