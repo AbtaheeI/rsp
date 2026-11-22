@@ -1,6 +1,6 @@
 # Python OOP
 
-Practice files: `oop/bank_account.py`, `oop/employees.py`, `oop/shapes.py`, `oop/stack.py`.
+Practice files: `practice/oop/bank_account.py`, `practice/oop/employees.py`, `practice/oop/shapes.py`, `practice/oop/stack.py`.
 
 ---
 
